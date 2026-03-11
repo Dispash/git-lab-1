@@ -60,7 +60,7 @@
 | Стили   |   Ant Design   |
 
 
-![Vite](/media/D/Прочее/1/vite.svg)
+![Vite](https://github.com/Dispash/git-lab-1/blob/c6b566f8823b4bdcc3c44ad8d28b884d8ac7e444/Vite%20SVG%20Icon.svg)
 ![React](/media/D/Прочее/1/react.svg)
 ![Ant Design](/media/D/Прочее/1/AntD.svg)
 
